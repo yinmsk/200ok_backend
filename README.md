@@ -50,6 +50,7 @@
   <summary>기숙사 테스트 문제 조회 <a href="https://github.com/zeonga1102/200ok_backend/blob/master/dormitory/views.py#L21">📄코드</a></summary>
   <div markdown="1">
  
+![기숙사 문제](https://user-images.githubusercontent.com/104487608/188050990-005d0b6f-75bb-4353-9216-7b72a4ca66c8.png)
 * 기숙사 배정을 위한 테스트 문제들을 조회합니다.
   </div>
 </details>
