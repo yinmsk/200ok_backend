@@ -56,9 +56,10 @@
 </details>
 
 <details>
-  <summary>시리얼라이저를 이용한 글 정보 조회, 작성, 삭제 기능 <a href="https://github.com/cmjcum/200ok_backend/blob/c0a96c816e61f9f074ac612a522d1fa9775928cf/lounge/views.py#L13">📄코드</a></summary>
+  <summary>게시판 기능 <a href="https://github.com/cmjcum/200ok_backend/blob/c0a96c816e61f9f074ac612a522d1fa9775928cf/lounge/views.py#L13">📄코드</a></summary>
   <div markdown="1">
  
+![image](https://user-images.githubusercontent.com/104487608/188051246-aea8f15d-9d1f-4c04-9a27-abe421cfadbc.png)
 *  시리얼라이저를 통해 라운지 페이지 띄우기, 게시글 작성 및 삭제 기능을 사용합니다.
   </div>
 </details>
